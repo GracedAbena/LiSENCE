@@ -1,4 +1,4 @@
-# LiSENCE Ensemble Ligand and Sequence Encoder Networks for CYP450 inhibitors Explainable Prediction 
+# LiSENCE: Ensemble Ligand and Sequence Encoder Networks for CYP450 inhibitors Explainable Prediction 
 
 Authors:Abena Achiaa Atwereboannah, Alantari Mugahed Ali Shawqi, ...
 
