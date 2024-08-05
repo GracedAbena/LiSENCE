@@ -12,7 +12,7 @@ The model achieves an average accuracy of 84.40% across these datasets, with LEN
 
 
 # Availability and Implementation
-Source code and data are available on 
+Source code and data are available on https://github.com/GracedAbena/LiSENCE/tree/main
 
 This is the code to train a cyp-inhibitor prediction model with the newly proposed LiSENCE model.
 
