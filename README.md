@@ -11,4 +11,4 @@ Adverse drug effects from Drug-Drug Interactions (DDIs) pose significant risks f
 The model achieves an average accuracy of 84.40% across these datasets, with LEN and SEN contributing 63.3% and 65.8%, respectively. Additional performance metrics include an AUC of 91.20%, specificity of 87.0%, precision of 87.20, F1-score of 77.0%, and MCC of 63.40%. LiSENCE could surpass the baseline models for identifying inhibitors. Its interpretability, supported by heat-map analysis, provides valuable insights for further drug development research.
 
 # Availability and Implementation
-Source code and data are available on GitHub
+Source code and data are available on [GitHub](https://github.com/GracedAbena/LiSENCE/blob/main/README.md)
