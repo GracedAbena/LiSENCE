@@ -9,7 +9,7 @@ from models.gat import GATNet
 from models.gat_gcn import GAT_GCN
 from utils import *
 import matplotlib.pyplot as plt
-from models.LiSENCE import LiSENCE
+from models.LiSENCE_model import LiSENCE
 
 from models.Dil_graph import Dil_graphNet
 #from sampler import ImbalancedDatasetSampler
