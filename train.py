@@ -9,7 +9,7 @@ from models.gat import GATNet
 from models.gat_gcn import GAT_GCN
 from utils import *
 import matplotlib.pyplot as plt
-from models.GIN_model import GINConvNet
+from models.LiSENCE import LiSENCE
 
 from models.Dil_graph import Dil_graphNet
 #from sampler import ImbalancedDatasetSampler
@@ -79,9 +79,9 @@ def predicting(model, device, loader):
 # model_st = modeling.__name__
 # model_st = 'GINConvNet'#'Dil_graphNet'#GINConvNet' #'GAT_GCN
 
-modeling = GINConvNet  
+modeling = LiSENCE  
 model_st = modeling.__name__
-model_st = 'GINConvNet' 
+model_st = 'LiSENCE' 
 
 
 cuda_name = "cuda:0"
