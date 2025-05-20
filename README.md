@@ -1,4 +1,4 @@
-# LiSENCE: Ensemble Ligand and Sequence Encoder Networks for CYP450 inhibitors Explainable Prediction 
+# LiSENCE: A Hybrid Ligand and Sequence Encoder Network for Predicting CYP450 Inhibitors in Safe Multidrug Administration
 
 Authors: Abena Achiaa Atwereboannah, Alantari Mugahed Ali Shawqi,...
 
